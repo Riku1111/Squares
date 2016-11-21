@@ -1,0 +1,17 @@
+package squares;
+
+public class Squares_lib implements Squares_if{
+
+	@Override
+	public double getRx() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public double[] getDx() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
